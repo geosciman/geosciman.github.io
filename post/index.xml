@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on GeosciMan</title>
+    <link>https://geosciman.github.io/post/</link>
+    <description>Recent content in Posts on GeosciMan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Jun 2021 16:24:30 +0800</lastBuildDate><atom:link href="https://geosciman.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GNSS Time Series</title>
+      <link>https://geosciman.github.io/post/gnss-time-series/</link>
+      <pubDate>Sat, 12 Jun 2021 16:24:30 +0800</pubDate>
+      
+      <guid>https://geosciman.github.io/post/gnss-time-series/</guid>
+      <description> GNSS position estimation Ocean tidal loading parameter Uisng GNSS-derived constants Analysing the difference time series  </description>
+    </item>
+    
+  </channel>
+</rss>
