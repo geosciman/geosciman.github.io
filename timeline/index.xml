@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Timelines on GeosciMan</title>
+        <title>Timelines on geosciman</title>
         <link>https://geosciman.github.io/timeline/</link>
-        <description>Recent content in Timelines on GeosciMan</description>
+        <description>Recent content in Timelines on geosciman</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Wed, 07 Oct 2020 00:00:00 +0000</lastBuildDate>
