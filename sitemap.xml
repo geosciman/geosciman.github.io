@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://geosciman.github.io/</loc>
-    <lastmod>2021-06-12T16:24:30+08:00</lastmod>
-  </url><url>
-    <loc>https://geosciman.github.io/post/gnss-time-series/</loc>
-    <lastmod>2021-06-12T16:24:30+08:00</lastmod>
-  </url><url>
-    <loc>https://geosciman.github.io/post/</loc>
-    <lastmod>2021-06-12T16:24:30+08:00</lastmod>
-  </url><url>
-    <loc>https://geosciman.github.io/categories/</loc>
-  </url><url>
-    <loc>https://geosciman.github.io/tags/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://geosciman.github.io/en/sitemap.xml</loc>
+    
+      <lastmod>2020-10-07T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://geosciman.github.io/fr/sitemap.xml</loc>
+    
+  </sitemap>
+  
+</sitemapindex>
