@@ -14,6 +14,18 @@
                 href="https://geosciman.github.io/fr/categories/"
                 />
   </url><url>
+    <loc>https://geosciman.github.io/fr/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://geosciman.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://geosciman.github.io/fr/"
+                />
+  </url><url>
     <loc>https://geosciman.github.io/fr/series/</loc>
     <xhtml:link
                 rel="alternate"
@@ -36,18 +48,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://geosciman.github.io/fr/tags/"
-                />
-  </url><url>
-    <loc>https://geosciman.github.io/fr/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://geosciman.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://geosciman.github.io/fr/"
                 />
   </url>
 </urlset>
